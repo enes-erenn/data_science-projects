@@ -56,7 +56,7 @@ plt.show()
 # Is this explainable by something like the genre of entertainment?
 
 # To answer these, Read in the CSV as a DataFrame
-netflix_df = pd.read_csv("netflix.csv")
+netflix_df = pd.read_csv("dataset/netflix.csv")
 
 # Print the first five rows of the DataFrame
 print(netflix_df.head())
