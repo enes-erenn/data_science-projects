@@ -1,4 +1,4 @@
-claima_id,time_to_close,claim_amount,amount_paid,location,individuals_on_claim,linked_cases,cause
+claim_id,time_to_close,claim_amount,amount_paid,location,individuals_on_claim,linked_cases,cause
 0001,317,R$ 74474.55,51231.37,RECIFE,15,FALSE,unknown
 0002,195,R$ 52137.83,42111.3,FORTALEZA,12,TRUE,unknown
 0003,183,R$ 24447.2,23986.3,SAO LUIS,10,TRUE,meat
